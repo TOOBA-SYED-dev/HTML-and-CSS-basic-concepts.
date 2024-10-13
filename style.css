@@ -1,0 +1,66 @@
+
+body {
+  font-family: sans-serif;
+  line-height: 1.4;
+}
+.container{
+  width:825px;
+  margin: 50px auto;
+}
+.producta{
+   border: 4px solid black;
+}
+h2{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  background-color: #f7f7f7;
+ }
+
+.dollar {
+  font-size:24px;
+}
+.ship{
+  color:#777;
+  text-transform: uppercase;
+   font-size:12px;
+  font-weight:bold;
+ }
+
+.more:link , more:visited
+{
+  color: #000;
+}
+.more:hover,more:active{
+  text-decoration:none;
+}
+
+
+.products {
+   text-transform: uppercase;
+   font-size:16px;
+ }
+.list {
+  list-style: square;
+}
+.button{
+   background-color:black;
+   color: white;
+  font-size:30px;
+  text-transform: uppercase;
+   border: none;
+  cursor: pointer;
+  width: 100%;
+  padding: 15px;
+  border-top: 4px solid black;
+  
+     
+  
+}
+.button:hover{
+  background-color:white;
+  color: black;
+ 
+ }
+
+
